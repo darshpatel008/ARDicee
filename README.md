@@ -1,5 +1,5 @@
 
-https://github.com/user-attachments/assets/c5bf8f88-1a56-404b-80e8-7bcc1e49fef6
+
 # *AR-Dicee* ✅
 AR-Dicee is an augmented reality app that simulates dice rolling in 3D space. Users can shake their device or tap on the screen to roll the dice, with the result displayed in an interactive AR environment.
 
