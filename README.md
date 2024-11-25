@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/c5bf8f88-1a56-404b-80e8-7bcc1e49fef6
 # *AR-Dicee* ✅
 AR-Dicee is an augmented reality app that simulates dice rolling in 3D space. Users can shake their device or tap on the screen to roll the dice, with the result displayed in an interactive AR environment.
 
@@ -24,3 +26,11 @@ Shake your device or tap on the screen to roll the dice in your environment.
 # *About the Project*
 
 AR-Dicee provides a fun and interactive augmented reality experience, demonstrating how ARKit can be used to bring simple games to life with real-world integration.
+
+
+
+https://github.com/user-attachments/assets/033b2348-a9e7-4bb2-a1a7-63324eea2fc2
+
+
+
+
